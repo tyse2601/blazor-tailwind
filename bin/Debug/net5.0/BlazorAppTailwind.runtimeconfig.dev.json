@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/SMITY/.dotnet/store/|arch|/|tfm|",
+      "/Users/SMITY/.nuget/packages"
+    ]
+  }
+}
