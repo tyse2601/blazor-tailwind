@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x35/QLKTCl4CJLPIlDY4ypekC4ZDlF2Z1ymNXF+O2oO7FwbOdTD8VSWE6VlWBOHYHOI7FDGQQN58xPMP270nEA==",
+  "dgSpecHash": "nUIAG7Jvztg3cR9VNhKftTTTDf+Ckm48K3EwwaCCrMSnAFEHey2loqN97bd17MfPJtfWJ6bJWyynWin8cLvv3w==",
   "success": true,
-  "projectFilePath": "/Users/SMITY/projects/DotNet/BlazorAppTailwind/BlazorAppTailwind.csproj",
+  "projectFilePath": "/Users/SMITY/projects/DotNet/blazor-demo/BlazorAppTailwind.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/SMITY/projects/DotNet/BlazorAppTailwind/BlazorAppTailwind.csproj",
+      "projectUniqueName": "/Users/SMITY/projects/DotNet/blazor-demo/BlazorAppTailwind.csproj",
       "projectName": "BlazorAppTailwind",
-      "projectPath": "/Users/SMITY/projects/DotNet/BlazorAppTailwind/BlazorAppTailwind.csproj",
+      "projectPath": "/Users/SMITY/projects/DotNet/blazor-demo/BlazorAppTailwind.csproj",
       "packagesPath": "/Users/SMITY/.nuget/packages/",
-      "outputPath": "/Users/SMITY/projects/DotNet/BlazorAppTailwind/obj/",
+      "outputPath": "/Users/SMITY/projects/DotNet/blazor-demo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/SMITY/.nuget/NuGet/NuGet.Config"
