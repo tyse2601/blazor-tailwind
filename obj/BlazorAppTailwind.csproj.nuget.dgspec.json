@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/SMITY/projects/DotNet/blazor-demo/BlazorAppTailwind.csproj": {}
+    "/Users/SMITY/projects/DotNet/blazor-demo/BlazorInAction.csproj": {}
   },
   "projects": {
-    "/Users/SMITY/projects/DotNet/blazor-demo/BlazorAppTailwind.csproj": {
+    "/Users/SMITY/projects/DotNet/blazor-demo/BlazorInAction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/SMITY/projects/DotNet/blazor-demo/BlazorAppTailwind.csproj",
-        "projectName": "BlazorAppTailwind",
-        "projectPath": "/Users/SMITY/projects/DotNet/blazor-demo/BlazorAppTailwind.csproj",
+        "projectUniqueName": "/Users/SMITY/projects/DotNet/blazor-demo/BlazorInAction.csproj",
+        "projectName": "BlazorInAction",
+        "projectPath": "/Users/SMITY/projects/DotNet/blazor-demo/BlazorInAction.csproj",
         "packagesPath": "/Users/SMITY/.nuget/packages/",
         "outputPath": "/Users/SMITY/projects/DotNet/blazor-demo/obj/",
         "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "/Users/SMITY/.nuget/NuGet/NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "net5.0"
-        ],
+        "configFilePaths": ["/Users/SMITY/.nuget/NuGet/NuGet.Config"],
+        "originalTargetFrameworks": ["net5.0"],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -29,22 +25,13 @@
           }
         },
         "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
+          "warnAsError": ["NU1605"]
         }
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
+          "imports": ["net461", "net462", "net47", "net471", "net472", "net48"],
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {

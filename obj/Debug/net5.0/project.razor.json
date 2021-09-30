@@ -1,5 +1,5 @@
 {
-  "FilePath": "/Users/SMITY/projects/DotNet/blazor-demo/BlazorAppTailwind.csproj",
+  "FilePath": "/Users/SMITY/projects/DotNet/blazor-in-action/BlazorAppTailwind.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -12,9 +12,9 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -1485939477,
+        "HashCode": 160245400,
         "Kind": "Components.Component",
-        "Name": "BlazorAppTailwind.App",
+        "Name": "BlazorInAction.App",
         "AssemblyName": "BlazorAppTailwind",
         "CaseSensitive": true,
         "TagMatchingRules": [
@@ -24,30 +24,30 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorAppTailwind.App"
+          "Common.TypeName": "BlazorInAction.App"
         }
       },
       {
-        "HashCode": -281096165,
+        "HashCode": -2130394629,
         "Kind": "Components.Component",
-        "Name": "BlazorAppTailwind.App",
+        "Name": "BlazorInAction.App",
         "AssemblyName": "BlazorAppTailwind",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorAppTailwind.App"
+            "TagName": "BlazorInAction.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorAppTailwind.App",
+          "Common.TypeName": "BlazorInAction.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": 1458004501,
+        "HashCode": 715930559,
         "Kind": "Components.Component",
-        "Name": "BlazorAppTailwind.Shared.MainLayout",
+        "Name": "BlazorInAction.Shared.MainLayout",
         "AssemblyName": "BlazorAppTailwind",
         "CaseSensitive": true,
         "TagMatchingRules": [
@@ -69,18 +69,18 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorAppTailwind.Shared.MainLayout"
+          "Common.TypeName": "BlazorInAction.Shared.MainLayout"
         }
       },
       {
-        "HashCode": 220785625,
+        "HashCode": -1762062589,
         "Kind": "Components.Component",
-        "Name": "BlazorAppTailwind.Shared.MainLayout",
+        "Name": "BlazorInAction.Shared.MainLayout",
         "AssemblyName": "BlazorAppTailwind",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorAppTailwind.Shared.MainLayout"
+            "TagName": "BlazorInAction.Shared.MainLayout"
           }
         ],
         "BoundAttributes": [
@@ -97,14 +97,14 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorAppTailwind.Shared.MainLayout",
+          "Common.TypeName": "BlazorInAction.Shared.MainLayout",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": -1322157254,
+        "HashCode": 1564970178,
         "Kind": "Components.ChildContent",
-        "Name": "BlazorAppTailwind.Shared.MainLayout.Body",
+        "Name": "BlazorInAction.Shared.MainLayout.Body",
         "AssemblyName": "BlazorAppTailwind",
         "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
         "CaseSensitive": true,
@@ -116,26 +116,26 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.None",
-          "Common.TypeName": "BlazorAppTailwind.Shared.MainLayout.Body",
+          "Common.TypeName": "BlazorInAction.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent"
         }
       },
       {
-        "HashCode": -704424920,
+        "HashCode": 745862708,
         "Kind": "Components.ChildContent",
-        "Name": "BlazorAppTailwind.Shared.MainLayout.Body",
+        "Name": "BlazorInAction.Shared.MainLayout.Body",
         "AssemblyName": "BlazorAppTailwind",
         "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
             "TagName": "Body",
-            "ParentTag": "BlazorAppTailwind.Shared.MainLayout"
+            "ParentTag": "BlazorInAction.Shared.MainLayout"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.None",
-          "Common.TypeName": "BlazorAppTailwind.Shared.MainLayout.Body",
+          "Common.TypeName": "BlazorInAction.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
@@ -174,35 +174,35 @@
         }
       },
       {
-        "HashCode": -1787175613,
+        "HashCode": -1298588036,
         "Kind": "Components.Component",
-        "Name": "__GeneratedComponent.AspNetCore_6c00e2c44773dc3b9557821ad2108b7e921b5d52",
+        "Name": "BlazorAppTailwind.Pages.Index",
         "AssemblyName": "BlazorAppTailwind",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "AspNetCore_6c00e2c44773dc3b9557821ad2108b7e921b5d52"
+            "TagName": "Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "__GeneratedComponent.AspNetCore_6c00e2c44773dc3b9557821ad2108b7e921b5d52"
+          "Common.TypeName": "BlazorAppTailwind.Pages.Index"
         }
       },
       {
-        "HashCode": 1371821612,
+        "HashCode": -1523512488,
         "Kind": "Components.Component",
-        "Name": "__GeneratedComponent.AspNetCore_6c00e2c44773dc3b9557821ad2108b7e921b5d52",
+        "Name": "BlazorAppTailwind.Pages.Index",
         "AssemblyName": "BlazorAppTailwind",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "__GeneratedComponent.AspNetCore_6c00e2c44773dc3b9557821ad2108b7e921b5d52"
+            "TagName": "BlazorAppTailwind.Pages.Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "__GeneratedComponent.AspNetCore_6c00e2c44773dc3b9557821ad2108b7e921b5d52",
+          "Common.TypeName": "BlazorAppTailwind.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -15814,37 +15814,37 @@
   "RootNamespace": "BlazorAppTailwind",
   "Documents": [
     {
-      "FilePath": "/Users/SMITY/projects/DotNet/blazor-demo/Shared/MainLayout.razor",
+      "FilePath": "/Users/SMITY/projects/DotNet/blazor-in-action/Shared/MainLayout.razor",
       "TargetPath": "Shared\\MainLayout.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "/Users/SMITY/projects/DotNet/blazor-demo/Pages/_Host.cshtml",
-      "TargetPath": "Pages\\_Host.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/SMITY/projects/DotNet/blazor-demo/_Imports.razor",
-      "TargetPath": "_Imports.razor",
-      "FileKind": "componentImport"
-    },
-    {
-      "FilePath": "/Users/SMITY/projects/DotNet/blazor-demo/Pages/Error.cshtml",
+      "FilePath": "/Users/SMITY/projects/DotNet/blazor-in-action/Pages/Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/SMITY/projects/DotNet/blazor-demo/App.razor",
+      "FilePath": "/Users/SMITY/projects/DotNet/blazor-in-action/App.razor",
       "TargetPath": "App.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "/Users/SMITY/projects/DotNet/blazor-demo/Pages/Index.razor",
+      "FilePath": "/Users/SMITY/projects/DotNet/blazor-in-action/Pages/_Host.cshtml",
+      "TargetPath": "Pages\\_Host.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/SMITY/projects/DotNet/blazor-in-action/Pages/Index.razor",
       "TargetPath": "Pages\\Index.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "/Users/SMITY/projects/DotNet/blazor-demo/Shared/NavMenu.razor",
+      "FilePath": "/Users/SMITY/projects/DotNet/blazor-in-action/_Imports.razor",
+      "TargetPath": "_Imports.razor",
+      "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "/Users/SMITY/projects/DotNet/blazor-in-action/Shared/NavMenu.razor",
       "TargetPath": "Shared\\NavMenu.razor",
       "FileKind": "component"
     }

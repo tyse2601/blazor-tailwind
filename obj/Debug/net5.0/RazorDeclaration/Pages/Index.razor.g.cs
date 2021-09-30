@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace BlazorAppTailwind.Pages
+namespace BlazorInAction.Pages
 {
     #line hidden
     using System;
@@ -13,71 +13,71 @@ namespace BlazorAppTailwind.Pages
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "/Users/SMITY/projects/DotNet/BlazorAppTailwind/_Imports.razor"
+#line 1 "/Users/SMITY/projects/DotNet/blazor-in-action/_Imports.razor"
 using System.Net.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "/Users/SMITY/projects/DotNet/BlazorAppTailwind/_Imports.razor"
+#line 2 "/Users/SMITY/projects/DotNet/blazor-in-action/_Imports.razor"
 using Microsoft.AspNetCore.Authorization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "/Users/SMITY/projects/DotNet/BlazorAppTailwind/_Imports.razor"
+#line 3 "/Users/SMITY/projects/DotNet/blazor-in-action/_Imports.razor"
 using Microsoft.AspNetCore.Components.Authorization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 4 "/Users/SMITY/projects/DotNet/BlazorAppTailwind/_Imports.razor"
+#line 4 "/Users/SMITY/projects/DotNet/blazor-in-action/_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 5 "/Users/SMITY/projects/DotNet/BlazorAppTailwind/_Imports.razor"
+#line 5 "/Users/SMITY/projects/DotNet/blazor-in-action/_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 6 "/Users/SMITY/projects/DotNet/BlazorAppTailwind/_Imports.razor"
+#line 6 "/Users/SMITY/projects/DotNet/blazor-in-action/_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 7 "/Users/SMITY/projects/DotNet/BlazorAppTailwind/_Imports.razor"
+#line 7 "/Users/SMITY/projects/DotNet/blazor-in-action/_Imports.razor"
 using Microsoft.AspNetCore.Components.Web.Virtualization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 8 "/Users/SMITY/projects/DotNet/BlazorAppTailwind/_Imports.razor"
+#line 8 "/Users/SMITY/projects/DotNet/blazor-in-action/_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 9 "/Users/SMITY/projects/DotNet/BlazorAppTailwind/_Imports.razor"
-using BlazorAppTailwind;
+#line 9 "/Users/SMITY/projects/DotNet/blazor-in-action/_Imports.razor"
+using BlazorInAction;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 10 "/Users/SMITY/projects/DotNet/BlazorAppTailwind/_Imports.razor"
-using BlazorAppTailwind.Shared;
+#line 10 "/Users/SMITY/projects/DotNet/blazor-in-action/_Imports.razor"
+using BlazorInAction.Shared;
 
 #line default
 #line hidden

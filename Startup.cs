@@ -8,9 +8,9 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-// using BlazorAppTailwind.Data;
+// using BlazorInAction.Data;
 
-namespace BlazorAppTailwind
+namespace BlazorInAction
 {
   public class Startup
   {

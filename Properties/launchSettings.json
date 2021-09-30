@@ -15,7 +15,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "BlazorAppTailwind": {
+    "BlazorInAction": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,
